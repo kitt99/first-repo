@@ -1,2 +1,10 @@
-Welcome to My First Repo
-Nothing
+ _    _ _   _    ___   ___  
+| | _(_) |_| |_ / _ \ / _ \ 
+| |/ / | __| __| (_) | (_) |
+|   <| | |_| |_ \__, |\__, |
+|_|\_\_|\__|\__|  /_/   /_/ 
+
+Welcome to my first repo
+
+to do:
+- nothing                            
